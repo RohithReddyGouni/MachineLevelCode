@@ -6,6 +6,7 @@ Requirements
 > Customizable in terms of number of dice used
 
 > When Game Board loads it should:
+
     A. Load the configured Board size
 
     B. Load the configured snake and ladder
